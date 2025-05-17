@@ -1,7 +1,3 @@
-Certainly! Here's a clear and professional **README.md** draft for your GitHub project based on the detailed guide and analysis workflow you shared:
-
----
-
 # QVI Chip Sales Data Analysis
 
 ## Project Overview
